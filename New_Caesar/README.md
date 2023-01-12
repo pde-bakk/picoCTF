@@ -1,0 +1,6 @@
+# New_Caesar
+
+Reverse the encoding and the shifting.
+Print the possible strings (one for each possible key out of 16)
+And input the only one that makes sense:
+`picoCTF{et_tu?_431db62c5618cd75f1d0b83832b67b46}`
